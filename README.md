@@ -108,8 +108,8 @@ CreateWidget 호출을 BeginPlay 1회로 축소하여 생성/파괴 비용 제�
 
 **전시/출품**
 
-- 2025 G-STAR BTC 부스 전시 예정
-- 2025 SW중심대학 연합 SW 페스티벌 출품 예정
+- 2025 G-STAR BTC 부스 전시
+- 2025 SW중심대학 연합 SW 페스티벌 출품 (장려상 수상)
 
 ### Demo
 https://www.youtube.com/watch?v=s_q6uRRrqOA
