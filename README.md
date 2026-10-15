@@ -13,7 +13,7 @@
 - 실시간 애니메이션과 이벤트 처리, 생명주기 관리
 
 ### Demo
-https://www.youtube.com/watch?v=srHcz5DsYDE
+[![시연 영상](https://img.youtube.com/vi/srHcz5DsYDE/maxresdefault.jpg)](https://www.youtube.com/watch?v=srHcz5DsYDE)
 
 ## 담당 역할 및 주요 기여
 
